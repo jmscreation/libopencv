@@ -1,0 +1,2 @@
+# libopencv
+ OpenCV Static Libraries

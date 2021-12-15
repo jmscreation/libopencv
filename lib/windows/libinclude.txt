@@ -1,0 +1,10 @@
+#Linking Order for Windows MinGW64 (this list has not been fully completed)
+
+#OpenCV Libraries
+opencv_videoio454 opencv_imgcodecs454 opencv_imgproc454 opencv_video454 opencv_core454 opencv_highgui454 opencv_calib3d454 opencv_dnn454 opencv_features2d454 opencv_flann454 opencv_gapi454 opencv_ml454 opencv_objdetect454 opencv_photo454 opencv_stitching454 opencv_ts454
+
+#3rd Party OpenCV Libraries
+ade IlmImf libjpeg-turbo libopenjp2 libpng libprotobuf libtiff libwebp quirc zlib
+
+#Windows Libraries
+opengl32 advapi32 user32 ole32 oleaut32 uuid gdi32 comdlg32
